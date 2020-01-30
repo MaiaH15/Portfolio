@@ -1,12 +1,4 @@
 # Responisive Portfolio 
-//Create the following pages: index.html, portfolio.html and contact.html.
-
-//Using Bootstrap, recreate your portfolio site with the following items:
-
-//A navbar
-
-//A responsive layout
-
-//Responsive images
-
-//The Bootstrap portfolio should minimize the use of media queries.
+A responisive portfolio made with css and bootstrap.
+With a navbar, responisive layout and photos.
+Created with index.html,portfolio.html,and contact.html

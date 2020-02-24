@@ -6,11 +6,7 @@ body {
     
   }
   
-  * {
-    box-sizing: border-box;
-  }
-  
-
+ 
   
   .navbar-brand {
     height: 90px;
@@ -24,18 +20,6 @@ body {
     margin-top: -1px;
   }
   
-  .navbar-default .navbar-brand {
-    color:white;
-    background: lightblue;
-  }
-  
-  #navbar-links a {
-    line-height: 0px;
-    color:lightblue;
-    text-decoration: none;
-    border-left: 1px solid white;
-    margin-top: 30px;
-  }
   
   
  .footer {
